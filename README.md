@@ -16,7 +16,7 @@ College = "Chitkara University, Punjab"
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:nandinikapoor458@gmail.com)
 
 - 😄I'm Still Learning Git & GitHub
-- ☀️Python Lover
+- ☀️Python and c++ Lover
 - ⚜️Most Of My Repositories Are For Telegram
 - 🤔 I’m looking for help with bot developing 😭;
 - 💬 Ask me about anything, I am happy to help;
