@@ -1,7 +1,7 @@
 ### ⚡ HELLO ⚡
 ### About 🙋🏻‍♂️
 ```python
-Name = "Nandani Kapoor"
+Name = "Nandini Kapoor"
 Profession = ['Coding':  '❣️']
 Age = "19"
 Country = "🇮🇳"
