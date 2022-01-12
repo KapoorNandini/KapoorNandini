@@ -1,8 +1,7 @@
 ### ⚡ HELLO ⚡
-[![telegram badge](https://img.shields.io/badge/@IshanSingla-30302f?style=for-the-badge&logo=telegram)](https://t.me/RealIshanSingla)
 ### About 🙋🏻‍♂️
 ```python
-Name = "ISHAN SINGLA"
+Name = "Nandani Kapoor"
 Profession = ['Coding':  '❣️']
 Age = "19"
 Country = "🇮🇳"
@@ -12,7 +11,7 @@ College = "Chitkara University, Punjab"
 
               
 #### 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/inukaasith)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/KapoorNandini)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/inukaasith7/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:is.ishan.singla@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:ishan.singla@hotmail.com)
@@ -27,16 +26,16 @@ College = "Chitkara University, Punjab"
 <h4 align="center"><b>My GitHub Stats💛</b></h4>
 
 #### 
-[![GitHub followers](https://img.shields.io/github/followers/IshanSingla.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/IshanSingla?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/IshanSingla.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/KapoorNandini?tab=followers)
 
 <p>
-  <a href="https://github.com/IshanSingla/handle-path-oz">
-    <img width="54%" align="left" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=IshanSingla&show_icons=true&hide_border=true" />
+  <a href="https://github.com/KapoorNandini/handle-path-oz">
+    <img width="54%" align="left" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=KapoorNandini&show_icons=true&hide_border=true" />
   </a>
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IshanSingla&layout=compact&theme=radical)](https://github.com/IshanSingla)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KapoorNandini&layout=compact&theme=radical)](https://github.com/KapoorNandini)
 
 
 
@@ -54,7 +53,7 @@ College = "Chitkara University, Punjab"
 # Follow me on
 <p align="left">
   
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/inukaasith)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/KapoorNandini)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/inukaasith7/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:is.ishan.singla@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:ishan.singla@hotmail.com)
