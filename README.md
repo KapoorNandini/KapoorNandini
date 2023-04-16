@@ -53,7 +53,7 @@ Languages and Tools I Love❤️
 [<img align="left" alt="Ubuntu" width="50px" src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" />](https://www.ubuntu.com)
 <img align="left" alt="C++" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png"/>
 <img align="left" alt="C" width="50px" src="https://w7.pngwing.com/pngs/627/82/png-transparent-logo-brand-letter-c-text-computer-logo.png"/>
-<img align="left" alt="Java" width="50px" src="https://www.clipartmax.com/png/middle/87-875036_java-java-programming.png"/>
+<img align="left" alt="Java" width="50px" src="[https://www.clipartmax.com/png/middle/87-875036_java-java-programming.png](https://www.pngplay.com/wp-content/uploads/9/Java-PNG-Clipart-Background.png)"/>
 <br />
 <br />
 
