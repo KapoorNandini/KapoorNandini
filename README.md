@@ -2,7 +2,8 @@
 ### About 🙋🏻‍♂️
 ```python
 Name = "Nandini Kapoor"
-Profession = ['Coding':  '❣️']
+Profession = ['Programmer':  '❣️']
+             ['Developer' :  '🙋']
 Age = "20"
 Country = "🇮🇳"
 College = "Chitkara University, Punjab"
@@ -16,9 +17,9 @@ College = "Chitkara University, Punjab"
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:nandinikapoor458@gmail.com)
 
 - 😄I'm Still Learning Git & GitHub
-- ☀️Python and c++ Lover
-- ⚜️Most Of My Repositories Are For Telegram
-- 🤔 I’m looking for help with bot developing 😭;
+- ☀️C++ and Java 
+- ⚜️Most Of My Repositories Are Either for Learning or Contribution
+- 🤔 I’m looking for help with Automation😭;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I'm Noob;
 
@@ -37,6 +38,8 @@ College = "Chitkara University, Punjab"
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KapoorNandini&layout=compact&theme=radical)](https://github.com/KapoorNandini)
 
 
+<br />
+<br />
 
 ### Languages and Tools I Love❤️
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />](https://python.org/)
@@ -44,8 +47,8 @@ College = "Chitkara University, Punjab"
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://git-scm.com/)
 [<img align="left" alt="Linux" width="26px" src="https://www.freepnglogos.com/uploads/linux-png/difference-between-linux-and-window-operating-system-3.png" />](https://www.linux.org/)
 [<img align="left" alt="Ubuntu" width="26px" src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" />](https://www.ubuntu.com)
-[<img align="left" alt="Heroku" width="26px" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png" />](https://heroku.com/)
-
+[<img align="left" alt="C++" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffossa.com%2Fblog%2Fhow-fossa-addresses-challenges-scanning-c-and-c-code%2F&psig=AOvVaw1hf8yV9fhs2izWwC3kJQ2l&ust=1681751071167000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCLjDrorxrv4CFQAAAAAdAAAAABAD" />]
+(https://www.w3schools.com/cpp/cpp_intro.asp#:~:text=C%2B%2B%20is%20an%20object%2Doriented,be%20adapted%20to%20multiple%20platforms.)
 <br />
 <br />
 
