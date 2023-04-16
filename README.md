@@ -41,7 +41,7 @@ College = "Chitkara University, Punjab"
 <br />
 <br />
 
-<p font size:20>
+<p font-size:20>
   ### Languages and Tools I Love❤️
   </p>
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />](https://python.org/)
