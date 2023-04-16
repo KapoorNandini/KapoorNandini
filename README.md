@@ -47,8 +47,6 @@ College = "Chitkara University, Punjab"
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://git-scm.com/)
 [<img align="left" alt="Linux" width="26px" src="https://www.freepnglogos.com/uploads/linux-png/difference-between-linux-and-window-operating-system-3.png" />](https://www.linux.org/)
 [<img align="left" alt="Ubuntu" width="26px" src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" />](https://www.ubuntu.com)
-[<img align="left" alt="C++" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffossa.com%2Fblog%2Fhow-fossa-addresses-challenges-scanning-c-and-c-code%2F&psig=AOvVaw1hf8yV9fhs2izWwC3kJQ2l&ust=1681751071167000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCLjDrorxrv4CFQAAAAAdAAAAABAD" />]
-
 <br />
 <br />
 
