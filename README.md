@@ -55,6 +55,8 @@ Languages and Tools I Love❤️
 <img align="left" alt="C" width="50px" src="https://w7.pngwing.com/pngs/627/82/png-transparent-logo-brand-letter-c-text-computer-logo.png"/>
 <img align="left" alt="Java" width="50px" src="https://www.pngplay.com/wp-content/uploads/9/Java-PNG-Clipart-Background.png"/>
 <img align="left" alt="React" width="70px" height="50px" src="https://www.datocms-assets.com/45470/1631110818-logo-react-js.png"/>
+<img align="left" alt="Javascript" width="50px" height="50px" src="https://static.javatpoint.com/images/javascript/javascript_logo.png"/>
+
 <br />
 <br />
 
