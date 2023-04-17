@@ -57,7 +57,7 @@ Languages and Tools I Love❤️
 <img align="left" alt="React" width="70px" height="50px" src="https://www.datocms-assets.com/45470/1631110818-logo-react-js.png"/>
 <img align="left" alt="Javascript" width="50px" height="50px" src="https://static.javatpoint.com/images/javascript/javascript_logo.png"/>
 <img align="left" alt="CSS" width="50px" src="https://cdn-icons-png.flaticon.com/512/919/919826.png"/>
-<img align="left" alt="HTML" width="50px" src="https://www.oxfordwebstudio.com/user/pages/06.da-li-znate/sta-je-html/sta-je-html.jpg"/>
+<img align="left" alt="HTML" width="50px" height="70px" src="https://www.oxfordwebstudio.com/user/pages/06.da-li-znate/sta-je-html/sta-je-html.jpg"/>
 
 
 <br />
