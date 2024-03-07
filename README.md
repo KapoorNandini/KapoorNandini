@@ -1,77 +1,28 @@
-### ⚡ HELLO ⚡
-### About 🙋🏻‍♂️
-```python
-Name = "Nandini Kapoor"
-Profession = ['Programmer':  '❣️']
-             ['Developer' :  '🙋']
-Age = "20"
-Country = "🇮🇳"
-College = "Chitkara University, Punjab"
-```
+# 💫 About Me:
+NANDINI KAPOOR
+<br><br>Profession <br>Coding: Enthusiastic ❤️ Techie<br>Engineer: Creative 🧲 Wizard<br><br>Tech Stack <br>Node.js, React.js, Next.js, MongoDB, Git, AWS<br><br>Personal Details<br>Age: 20<br>Country: 🇮🇳<br>College: Chitkara University, Punjab<br><br>About Myself<br><br>👋 Hey, I'm  Nandini —a code ninja by day, and a music enthusiast by night. <br>I love turning coffee into code and dreams into projects.<br>Currently mastering Backend Development. <br>When I'm not glued to my screen, you can catch me Singing<br>Exploring the universe of software development, one commit at a time.<br>Currently hacking away on Ed-Tech Project and always open to new opportunities and collaborations.<br><br>Awards & Recognition<br>Among the Top 5 teams in India and secured place in Grand Finale of SMART INDIA HACKATHON <br>by developing an AI/ML sniffing tool to identify if any Router/Firewall/System is Compromised<br>This tool leveraged the power of ML algorithms to for validating the effectiveness and differentiate between benign<br>and potential threats<br>Offered real-time alerts on an integrated GUI for immediate action .<br><br>Skills Snapshot<br><br>Languages : Node.js , C++ , Java <br>Databases : MongoDB , MySQL<br>Frameworks : React.js , Bootstrap , Next.js<br>Cloud : AWS<br><br><br>
 
 
-              
-#### 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/KapoorNandini)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/iam_nkkr/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:nandinikapoor458@gmail.com)
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/dev_nk111) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/n_kx_10) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nandini-kapoor-67174422b/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Nandini69852948) 
 
-- 😄I'm Still Learning Git & GitHub
-- ☀️C++ and Java 
-- ⚜️Most Of My Repositories Are Either for Learning or Contribution
-- 🤔 I’m looking for help with Automation😭;
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I'm Noob;
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=KapoorNandini&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=KapoorNandini&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KapoorNandini&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<h4 align="center"><b>My GitHub Stats💛</b></h4>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=KapoorNandini&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
-#### 
-[![GitHub followers](https://img.shields.io/github/followers/IshanSingla.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/KapoorNandini?tab=followers)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
-<p>
-  <a href="https://github.com/KapoorNandini/handle-path-oz">
-    <img width="54%" align="left" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=KapoorNandini&show_icons=true&hide_border=true" />
-  </a>
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=KapoorNandini&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+---
+[![](https://visitcount.itsvg.in/api?id=KapoorNandini&icon=1&color=1)](https://visitcount.itsvg.in)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KapoorNandini&layout=compact&theme=radical)](https://github.com/KapoorNandini)
-
-
-<br />
-<br />
-<br />
-<br />
-
-###
-Languages and Tools I Love❤️
-
-[<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />](https://python.org/)
-[<img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
-[<img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://git-scm.com/)
-[<img align="left" alt="Linux" width="50px" src="https://www.freepnglogos.com/uploads/linux-png/difference-between-linux-and-window-operating-system-3.png" />](https://www.linux.org/)
-[<img align="left" alt="Ubuntu" width="50px" src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" />](https://www.ubuntu.com)
-<img align="left" alt="C++" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png"/>
-<img align="left" alt="C" width="50px" src="https://w7.pngwing.com/pngs/627/82/png-transparent-logo-brand-letter-c-text-computer-logo.png"/>
-<img align="left" alt="Java" width="50px" src="https://www.pngplay.com/wp-content/uploads/9/Java-PNG-Clipart-Background.png"/>
-<img align="left" alt="React" width="70px" height="50px" src="https://www.datocms-assets.com/45470/1631110818-logo-react-js.png"/>
-<img align="left" alt="Javascript" width="50px" height="50px" src="https://static.javatpoint.com/images/javascript/javascript_logo.png"/>
-<img align="left" alt="CSS" width="50px" src="https://cdn-icons-png.flaticon.com/512/919/919826.png"/>
-<img align="left" alt="HTML" width="50px" height="50px" src="https://www.oxfordwebstudio.com/user/pages/06.da-li-znate/sta-je-html/sta-je-html.jpg"/>
-<img align="left" alt="NODEJS" width="50px" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_f0b606abb6d19089febc9faeeba5bc05/nodejs-development-services.png"/>
-
-
-<br />
-<br />
-<br />
-<br />
-
-
-# Follow me on
-<p align="left">
-  
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/KapoorNandini)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/iam_nkkr/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:nandinikapoor458@gmail.com
-)
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
